@@ -1,39 +1,39 @@
 # crypto
 # Crypto Knowledge Hub
 
-Добро пожаловать в **Crypto Knowledge Hub** – репозиторий для изучения и обсуждения криптовалют, блокчейна и Web3!
+Welcome to **Crypto Knowledge Hub** – a repository for learning and discussing cryptocurrency, blockchain, and Web3!
 
-## 🔥 Что здесь есть?
-- **Основные термины** криптовалютного мира
-- **Полезные статьи и ссылки**
-- **Инструменты для анализа**
-- **NFT и Web3 проекты**
-
----
-
-## 📖 Основные термины
-
-- **Блокчейн** – децентрализованная база данных, в которой хранятся все транзакции.
-- **Криптовалюта** – цифровая форма денег, основанная на блокчейне (Bitcoin, Ethereum и др.).
-- **NFT (Non-Fungible Token)** – уникальный токен, подтверждающий право владения цифровым объектом.
-- **DeFi (Decentralized Finance)** – децентрализованные финансовые приложения без посредников.
-- **DAO (Decentralized Autonomous Organization)** – организация, работающая на смарт-контрактах без централизованного управления.
+## 🔥 What’s Inside?
+- **Key cryptocurrency terms**
+- **Useful articles and links**
+- **Analysis tools**
+- **NFT and Web3 projects**
 
 ---
 
-## 🌍 Полезные ресурсы
+## 📖 Key Terms
 
-- [CoinMarketCap](https://coinmarketcap.com/) – котировки криптовалют
-- [Etherscan](https://etherscan.io/) – блокчейн-эксплорер Ethereum
-- [Opensea](https://opensea.io/) – платформа для торговли NFT
-- [DefiLlama](https://defillama.com/) – мониторинг DeFi-проектов
+- **Blockchain** – A decentralized database storing all transactions.
+- **Cryptocurrency** – A digital form of money based on blockchain (e.g., Bitcoin, Ethereum).
+- **NFT (Non-Fungible Token)** – A unique token that certifies ownership of a digital asset.
+- **DeFi (Decentralized Finance)** – Decentralized financial applications without intermediaries.
+- **DAO (Decentralized Autonomous Organization)** – An organization run by smart contracts without centralized control.
 
 ---
 
-## 📌 Как внести вклад?
+## 🌍 Useful Resources
 
-1. Форкни репозиторий
-2. Добавь полезную информацию
-3. Сделай pull request!
+- [CoinMarketCap](https://coinmarketcap.com/) – Cryptocurrency prices
+- [Etherscan](https://etherscan.io/) – Ethereum blockchain explorer
+- [Opensea](https://opensea.io/) – NFT marketplace
+- [DefiLlama](https://defillama.com/) – DeFi project tracking
 
-🔥 **Давай строить крипто-сообщество вместе!** 🚀
+---
+
+## 📌 How to Contribute?
+
+1. Fork this repository
+2. Add valuable information
+3. Submit a pull request!
+
+🔥 **Let’s build the crypto community together!** 🚀
